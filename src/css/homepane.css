@@ -1,0 +1,43 @@
+.mainhome {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #181818;
+    /* background-color: blue; */
+    margin: auto;
+}
+
+.card {
+    margin: 10px;
+    height: 400px;
+    width: 300px;
+}
+
+.cardmedia {
+    width: 100%;
+}
+
+.innercontent {
+    align-items: stretch;
+}
+.cardicon-panel {
+    height: 100%;
+    width: 54px;
+    background-color: darkolivegreen;
+}
+.cardicon {
+    background: blue;
+    border-radius: 100%;
+    height: 40px;
+    width: 40px;
+    margin-top: 5px;
+}
+.cardmui-icon {
+    justify-content: right;
+    color: 	#909090;
+}
+.cardtitle {
+    margin-top: 5px;
+    height: 20px;
+    color: white;
+    font-size: 18px;
+}
